@@ -1,1 +1,5 @@
-crearun programa que solicite al usuario ingresarun numero, siel miso es mayor a (10) "mostrar por pantallaes mayor a 10" en caso contrario mostrar por pantalla fin del programa
+ numero = inut("ingresa un numero: ")
+ if numero < 10:
+ print("fin del programa")
+ else numero >10:
+ print("numero mayor a 10")
